@@ -15,12 +15,7 @@ this is my virtual AD environment for testing group policies, security configura
 - Security hardening templates
 - Troubleshooting guides
 
-## Getting Started
-1. Review [setup.md](docs/setup.md)
-2. Run setup scripts from `/scripts/setup/`
-3. See [architecture.md](docs/architecture.md) for topology
-
 ## Documentation
-- [Setup Guide](docs/setup.md): Step-by-step deployment
-- [Architecture](docs/architecture.md): Network diagram & design decisions
-- [Troubleshooting](docs/troubleshooting.md): Common issues & fixes
+- [Setup Guide](setup): Step-by-step deployment
+- [Automation Scripts]():
+- [Troubleshooting](troubleshooting.md): Common issues & fixes
