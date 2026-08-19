@@ -246,5 +246,3 @@ Write-Host ""
 Write-Host "Audit report saved to: $reportPath" -ForegroundColor Green
 
 #endregion
-
-#endregion
